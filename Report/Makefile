@@ -1,4 +1,4 @@
-SRCS=report
+SRCS=DDMethod
 
 proceedingsversion:
 	pdflatex ${SRCS}.tex
